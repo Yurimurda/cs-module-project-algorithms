@@ -26,7 +26,7 @@ Each directory contains a separate problem that you must solve. Inside each dire
 
 There isn't an official prescribed order for tackling the problems, though a subjective ranking of the given problems from easiest to hardest might go something like this:
 
- 1. `single_number`
+ 1. `single_number` (finished)
  2. `moving_zeroes`
  3. `product_of_all_other_numbers`
  4. `sliding_window_max`
